@@ -1,0 +1,8 @@
+Failed to open connection to "session" message bus: Using X11 for dbus-daemon autolaunch was disabled at compile time, set your DBUS_SESSION_BUS_ADDRESS instead
+1560259719523	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.icMnIEiD9GZ6"
+Failed to open connection to "session" message bus: Using X11 for dbus-daemon autolaunch was disabled at compile time, set your DBUS_SESSION_BUS_ADDRESS instead
+Running without a11y support!
+
+(firefox:77493): Gtk-WARNING **: 21:28:39.565: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Error: no DISPLAY environment variable specified
